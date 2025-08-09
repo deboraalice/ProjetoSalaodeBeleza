@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "cliente": "Kátia Fabíola Vieira de Oliveira",
+        "data": "14/08/2025",
+        "horario": "11:00",
+        "servico": "Manicure",
+        "preco": 25.0,
+        "duracao": "30 minutos",
+        "profissional": "Débora",
+        "status": "Confirmado"
+    }
+]

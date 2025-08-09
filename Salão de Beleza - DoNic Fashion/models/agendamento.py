@@ -1,5 +1,3 @@
-# Adicione estes métodos à sua classe Agendamento:
-
 class Agendamento:
     def __init__(self, cliente, data, horario, servico, preco, duracao, profissional, status="Pendente", id=None):
         self.cliente = cliente
